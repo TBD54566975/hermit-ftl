@@ -17,7 +17,8 @@ version "0.39.0" "0.41.1" "0.42.0" "0.43.5" "0.46.1" "0.47.0" "0.53.0" "0.53.3"
   }
 }
 
-channel "latest" {
+// This is not named "autoupdate" so that it doesn't clash with "latest" from the mainline package
+channel "auto" {
   update = "1h"
   version = "0.*"
 }
