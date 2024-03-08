@@ -27,7 +27,7 @@ version "0.39.0" "0.41.1" "0.42.0" "0.43.5" "0.46.1" "0.47.0" "0.53.0" "0.53.3"
         "0.134.7" "0.135.0" "0.136.0" "0.137.0" "0.138.0" "0.138.1" "0.138.2" "0.138.3"
         "0.138.4" "0.138.5" "0.139.0" "0.139.1" "0.139.2" "0.140.0" "0.141.0" "0.142.0"
         "0.142.1" "0.143.0" "0.144.0" "0.144.1" "0.144.2" "0.144.3" "0.144.4" "0.145.0"
-        "0.145.1" "0.145.2" {
+        "0.145.1" "0.145.2" "0.145.3" {
   auto-version {
     github-release = "TBD54566975/ftl"
   }
@@ -625,4 +625,7 @@ sha256sums = {
   "https://github.com/TBD54566975/ftl/releases/download/v0.145.2/ftl-0.145.2.linux-amd64.tar.gz": "8fd0eb88c1e29f7bec0ed513952230eeb28f7b02eebcff2d746799095be3c770",
   "https://github.com/TBD54566975/ftl/releases/download/v0.145.2/ftl-0.145.2.darwin-amd64.tar.gz": "b46485d4ce8c187811818dc5a2e3642e775db3fb740e77ced8811668e6349af4",
   "https://github.com/TBD54566975/ftl/releases/download/v0.145.2/ftl-0.145.2.darwin-arm64.tar.gz": "7c7b235a33de018720b86fa17ef434d04f6142b96f5bbfc50fa20f2002f32a19",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.145.3/ftl-0.145.3.darwin-arm64.tar.gz": "f221f8563d79a64ef3108beed8bb45c3d17dcc68ad1d4bc077719116fdf97b4d",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.145.3/ftl-0.145.3.darwin-amd64.tar.gz": "f714eb5cf7ee2d9fc00053a59ae5741b68196d641db9bb1f1c493fd23ce5c95b",
+  "https://github.com/TBD54566975/ftl/releases/download/v0.145.3/ftl-0.145.3.linux-amd64.tar.gz": "e5d4411916ea84229f8e2e8b9328d180ee934d51980891fa820f221a3d9bd821",
 }
